@@ -1,5 +1,5 @@
 # Rise To The Top
-
+The code in this repository can be found [here](https://rise-to-the-top.herokuapp.com/)
 ### Introduction
 Welcome to Rise to the Top!
 
@@ -25,10 +25,10 @@ Libraries/frameworks used:
 
 ### Installation
 
-For deployment, contact eric.doppelt@duke.edu to gain access to this project’s repository.
+For deployment, contact nicolas.decapite@duke.edu to gain access to this project’s repository.
 
 1. Clone from Git to local machine.
-- Run `git clone` https://github.com/ericdoppelt/psych-games.
+- Run `git clone` https://github.com/nicolasdecapite1/psych-games.
 2. In terminal, using command cd, open the psych-games directory on your local machine.
 3. Install npm, using the following instructions provided here: https://www.npmjs.com/get-npm.
 3. Before running application, install node modules and dependencies (backend).
